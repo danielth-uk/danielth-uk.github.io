@@ -1,3 +1,40 @@
+.md-accordion__header,
+.md-card,
+body {
+    background-color: var(--md-background-primary)!important;
+    color: var(--md-textColor-primary)!important
+}
+
+.md-accordion__header:hover {
+    background-color: var(--md-item-hover)!important;
+    color: var(--md-textColor-primary)!important
+}
+
+.md-list-item {
+    background-color: var(--md-background-primary)!important
+}
+
+.md-list-item:hover {
+    background-color: var(--md-item-hover)!important
+}
+
+.md-data-table,
+th {
+    color: var(--md-textColor-primary)!important
+}
+
+.md-data-table,
+br,
+th {
+    background-color: var(--md-background-primary)!important
+}
+
+h5,
+td {
+    color: var(--md-textColor-secondary)!important
+}
+
+
 /*!
  * @momentum-ui/core v19.15.22 (http://momentum.design)
  * Cisco Momentum UI CSS Framework
