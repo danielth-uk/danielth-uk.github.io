@@ -2,3 +2,5 @@ notes.txt
 clean.py
 versionTrack
 requirements.txt
+geckodriver.log
+test.py
